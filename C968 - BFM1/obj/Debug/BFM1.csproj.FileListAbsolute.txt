@@ -1,0 +1,14 @@
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\BFM1.csprojAssemblyReference.cache
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\C968___BFM1.AddProducts.resources
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\C968___BFM1.ModifyParts.resources
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\C968___BFM1.ModifyProduct.resources
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\C968___BFM1.Form1.resources
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\C968___BFM1.Properties.Resources.resources
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\BFM1.csproj.GenerateResource.cache
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\BFM1.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\bin\Debug\C968 - BFM1.exe.config
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\bin\Debug\C968 - BFM1.exe
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\bin\Debug\C968 - BFM1.pdb
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\C968 - BFM1.exe
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\C968 - BFM1.pdb
+C:\Users\James\source\repos\C968 - BFM1\C968 - BFM1\obj\Debug\C968___BFM1.AddParts.resources
