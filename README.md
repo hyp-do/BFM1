@@ -18,7 +18,7 @@ B. An add part form, showing the following controls:
 C. A modify part form, with fields that populate with pre-saved data, showing the following controls: 
 - Radio buttons for “In-House” and “Outsourced” parts 
 - Buttons for “Save” and “Cancel” 
-- text boxes for ID, name, inventory level, price, max and min values, and company name or machine ID 
+- Text boxes for ID, name, inventory level, price, max and min values, and company name or machine ID 
 - Labels for ID, name, inventory level, price, max and min values, the application title, and company name or machine ID
 
 D. An add product form, showing the following controls: 
