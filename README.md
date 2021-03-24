@@ -27,7 +27,8 @@ D. An add product form, showing the following controls:
 - A “Search” button and a text field with an associated list for displaying the results of the search
 
 E. A modify product form, with fields that populate with pre-saved data, showing the following controls: 
-- Buttons for “Save,” “Cancel,” “Add” part, and “Delete” part • text boxes for ID, name, inventory level, price, and max and min values 
+- Buttons for “Save,” “Cancel,” “Add” part, and “Delete” part 
+- Text boxes for ID, name, inventory level, price, and max and min values 
 - Labels for ID, name, inventory level, price, max and min values, and the application 
 - A grid view for associated parts and their products 
 - A “Search” button and a text box with associated list for displaying the results of the search
