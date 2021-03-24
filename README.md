@@ -5,7 +5,8 @@ First C# Project for WGU. This was a very basic WInForms inventory management ap
 
 A. A main form, showing the following controls: 
 - Buttons for “Add,” “Modify,” “Delete,” “Search” for parts and products, and “Exit” 
-- Lists for parts and products • text boxes for searching for parts and products 
+- Lists for parts and products 
+- Text boxes for searching for parts and products 
 - Title labels for parts, products, and the application title
 
 B. An add part form, showing the following controls: 
@@ -16,7 +17,8 @@ B. An add part form, showing the following controls:
 
 C. A modify part form, with fields that populate with pre-saved data, showing the following controls: 
 - Radio buttons for “In-House” and “Outsourced” parts 
-- Buttons for “Save” and “Cancel” • text boxes for ID, name, inventory level, price, max and min values, and company name or machine ID 
+- Buttons for “Save” and “Cancel” 
+- text boxes for ID, name, inventory level, price, max and min values, and company name or machine ID 
 - Labels for ID, name, inventory level, price, max and min values, the application title, and company name or machine ID
 
 D. An add product form, showing the following controls: 
